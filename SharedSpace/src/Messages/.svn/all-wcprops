@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/260/SharedSpace/src/Messages
+END
+MessageGetRank.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/106/SharedSpace/src/Messages/MessageGetRank.java
+END
+MessageGameProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/264/SharedSpace/src/Messages/MessageGameProgress.java
+END
+MessageOpenRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/111/SharedSpace/src/Messages/MessageOpenRoom.java
+END
+MessageCheckResume.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/215/SharedSpace/src/Messages/MessageCheckResume.java
+END
+MessageConnectionLost.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/155/SharedSpace/src/Messages/MessageConnectionLost.java
+END
+MessageGetRankReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/99/SharedSpace/src/Messages/MessageGetRankReply.java
+END
+MessageJoinRoomReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/111/SharedSpace/src/Messages/MessageJoinRoomReply.java
+END
+MessageLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/284/SharedSpace/src/Messages/MessageLogin.java
+END
+MessageLogout.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/111/SharedSpace/src/Messages/MessageLogout.java
+END
+MessageInvitePlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/260/SharedSpace/src/Messages/MessageInvitePlayer.java
+END
+RoomStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/111/SharedSpace/src/Messages/RoomStatus.java
+END
+MessageOutOfTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/272/SharedSpace/src/Messages/MessageOutOfTime.java
+END
+MessageSpecExitGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/231/SharedSpace/src/Messages/MessageSpecExitGame.java
+END
+MessageShowHistoryReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/292/SharedSpace/src/Messages/MessageShowHistoryReply.java
+END
+Message3Boom.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/264/SharedSpace/src/Messages/Message3Boom.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/294/SharedSpace/src/Messages/Message.java
+END
+MessageUnsolicited.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/262/SharedSpace/src/Messages/MessageUnsolicited.java
+END
+MessageLogoutReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5/SharedSpace/src/Messages/MessageLogoutReply.java
+END
+MessageSpecRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/251/SharedSpace/src/Messages/MessageSpecRoom.java
+END
+MessageGameTrivia.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/205/SharedSpace/src/Messages/MessageGameTrivia.java
+END
+MessageResumeGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/215/SharedSpace/src/Messages/MessageResumeGame.java
+END
+MessageJoinRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/83/SharedSpace/src/Messages/MessageJoinRoom.java
+END
+MessageInvitationDenied.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/262/SharedSpace/src/Messages/MessageInvitationDenied.java
+END
+MessageEndGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/191/SharedSpace/src/Messages/MessageEndGame.java
+END
+MessageShowHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/292/SharedSpace/src/Messages/MessageShowHistory.java
+END
+MessageSpecRoomReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/111/SharedSpace/src/Messages/MessageSpecRoomReply.java
+END
+MessageExitGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/171/SharedSpace/src/Messages/MessageExitGame.java
+END
+MessageInvitationDeniedReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/262/SharedSpace/src/Messages/MessageInvitationDeniedReply.java
+END
+MessageOpenRoomReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/181/SharedSpace/src/Messages/MessageOpenRoomReply.java
+END
+MessageCheckResumeReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/215/SharedSpace/src/Messages/MessageCheckResumeReply.java
+END
+MessageGetResumeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/215/SharedSpace/src/Messages/MessageGetResumeInfo.java
+END
+MessageInviteRefresh.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/294/SharedSpace/src/Messages/MessageInviteRefresh.java
+END
+MessageLoginReply.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/129/SharedSpace/src/Messages/MessageLoginReply.java
+END
+MessageRefreshLobby.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/146/SharedSpace/src/Messages/MessageRefreshLobby.java
+END
+EnvStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/58/SharedSpace/src/Messages/EnvStatus.java
+END

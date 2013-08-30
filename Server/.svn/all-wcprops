@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/262/Server
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/283/Server/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/52/Server/.project
+END
+.djunitplugin
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/23/Server/.djunitplugin
+END

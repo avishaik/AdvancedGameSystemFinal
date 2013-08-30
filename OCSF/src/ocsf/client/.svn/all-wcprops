@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/11/OCSF/src/ocsf/client
+END
+AbstractClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/OCSF/src/ocsf/client/AbstractClient.java
+END
+ObservableClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/OCSF/src/ocsf/client/ObservableClient.java
+END
+AdaptableClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/OCSF/src/ocsf/client/AdaptableClient.java
+END

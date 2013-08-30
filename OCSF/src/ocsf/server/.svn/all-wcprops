@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/11/OCSF/src/ocsf/server
+END
+ConnectionToClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/OCSF/src/ocsf/server/ConnectionToClient.java
+END
+OriginatorMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/OCSF/src/ocsf/server/OriginatorMessage.java
+END
+AdaptableServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/11/OCSF/src/ocsf/server/AdaptableServer.java
+END
+ObservableOriginatorServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/11/OCSF/src/ocsf/server/ObservableOriginatorServer.java
+END
+AbstractServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/11/OCSF/src/ocsf/server/AbstractServer.java
+END
+ObservableServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/11/OCSF/src/ocsf/server/ObservableServer.java
+END

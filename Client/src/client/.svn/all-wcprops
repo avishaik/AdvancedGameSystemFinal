@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/249/Client/src/client
+END
+P2PClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/281/Client/src/client/P2PClient.java
+END
+ClientInitialize.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/275/Client/src/client/ClientInitialize.java
+END
+P2PServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/281/Client/src/client/P2PServer.java
+END
+UserTaskAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/281/Client/src/client/UserTaskAssignment.java
+END
+ChatClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/275/Client/src/client/ChatClient.java
+END
